@@ -14,7 +14,7 @@ var t = require('tiles-in-bbox')
 var bbox = {
     bottom : 42.356,
     left : -71.1279,
-    top : 42.3876
+    top : 42.3876,
     right : -71.1002,
 }
 
